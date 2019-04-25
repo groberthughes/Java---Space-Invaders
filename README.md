@@ -11,6 +11,17 @@ file to use lambdas instead of private classes.
 ### Setup
 Clone this repository, and add it to your local eclipse workspace.
 
+You will be able to create a new eclipse project by cloning the repository
+to a directory of your choosing, and then creating a new eclipse project 
+for it. To do this, right click on your package explorer, and navigate through
+``` new > Java Project```. From here, you should see a menu appear, where 
+you will enter the name for your project. This can be anything you want. 
+Additionally, before clicking ```Finish```, unclick the checkbox that 
+says ```Use default lcoation``` next to it, and click the ```Browse``` 
+button. This will allow you to select your git folder as a directory. 
+Once this has been done, click the ```Finish``` button, and eclipse 
+will make a Java project for you. 
+
 Before starting, run the SpaceInvaders file as a Java Application to 
 ensure that there are no errors, which will have the full functionality
 as the previous section upon completion. 
